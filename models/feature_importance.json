@@ -1,0 +1,122 @@
+[
+  {
+    "feature": "road_code",
+    "importance": 10843.203737879105
+  },
+  {
+    "feature": "geohash_te",
+    "importance": 2102.608111703579
+  },
+  {
+    "feature": "road_complexity_score",
+    "importance": 1647.737532443754
+  },
+  {
+    "feature": "geohash_freq",
+    "importance": 318.4912422031368
+  },
+  {
+    "feature": "sin_hour",
+    "importance": 255.34937761965847
+  },
+  {
+    "feature": "cos_hour",
+    "importance": 235.82286456290458
+  },
+  {
+    "feature": "geo_lon",
+    "importance": 224.8217445280694
+  },
+  {
+    "feature": "geo_lat",
+    "importance": 208.09233884737623
+  },
+  {
+    "feature": "time_bucket",
+    "importance": 148.72490373722684
+  },
+  {
+    "feature": "roadtype_x_lanes",
+    "importance": 124.113273827784
+  },
+  {
+    "feature": "hour",
+    "importance": 90.6136317857774
+  },
+  {
+    "feature": "lane_time_interaction",
+    "importance": 75.89549040208803
+  },
+  {
+    "feature": "temperature",
+    "importance": 73.96195374754606
+  },
+  {
+    "feature": "RoadType_freq",
+    "importance": 59.56167808964965
+  },
+  {
+    "feature": "geohash_x_peak",
+    "importance": 53.258306476904544
+  },
+  {
+    "feature": "geo_lon_abs",
+    "importance": 49.097948547775744
+  },
+  {
+    "feature": "geo_lat_abs",
+    "importance": 35.027641372426295
+  },
+  {
+    "feature": "weather_x_hour",
+    "importance": 30.849264358376967
+  },
+  {
+    "feature": "day",
+    "importance": 28.104737986362306
+  },
+  {
+    "feature": "RoadType_te",
+    "importance": 26.07645338209113
+  },
+  {
+    "feature": "day_hour_interaction",
+    "importance": 24.019656807248246
+  },
+  {
+    "feature": "weather_lane_interaction",
+    "importance": 10.695445749966893
+  },
+  {
+    "feature": "is_night",
+    "importance": 9.800427375739673
+  },
+  {
+    "feature": "minute",
+    "importance": 9.375930628477363
+  },
+  {
+    "feature": "geo_prefix4_te",
+    "importance": 8.884820483339718
+  },
+  {
+    "feature": "large_code",
+    "importance": 6.767784540785942
+  },
+  {
+    "feature": "weekday",
+    "importance": 5.981435505341506
+  },
+  {
+    "feature": "num_lanes",
+    "importance": 5.073859726829687
+  },
+  {
+    "feature": "NumberofLanes_te",
+    "importance": 4.03177815877134
+  },
+  {
+    "feature": "geo_prefix4_freq",
+    "importance": 3.782109673062223
+  }
+]
