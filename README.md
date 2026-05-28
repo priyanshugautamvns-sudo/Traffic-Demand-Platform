@@ -1,3 +1,4 @@
+
 # Flipkart Traffic Demand Intelligence
 
 A lightweight hackathon-ready traffic demand prediction platform built with a small FastAPI backend, a polished Next.js 14 dashboard, and a LightGBM model tuned for strong R² with low inference overhead.
